@@ -1,0 +1,7 @@
+---Final Project---
+--Chayma Aydi--
+-29/07/2021-
+This is my final project about an important topic "COVID-19".
+I used in this project HTML5,CSS3 and JAVASCRIPT.
+It's responsive on all phones,tablets and computers.
+
